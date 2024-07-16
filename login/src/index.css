@@ -1,0 +1,10 @@
+
+body {
+  background-image: url('background.avif'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+
